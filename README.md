@@ -1,5 +1,5 @@
-# my-first-binder
-my first binder
+# Teaching Science with Big Data Binder
+teaching science with big data binder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bonniehall/my-first-binder/HEAD?urlpath=lab)
 
